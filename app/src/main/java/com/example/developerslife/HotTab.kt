@@ -179,7 +179,8 @@ class HotTab : Fragment() {
 
         textView.setText("")
         var gif: GifProperty = GifProperty("","")
-        progressBar.visibility = View.VISIBLE
+        if (!isOnline(context!!))
+        progressBar.visibility = View.INVISIBLE
         val jsonObjectRequest = JsonObjectRequest(
             Request.Method.GET, url, null, Response.Listener { response ->
                 if (response.getJSONArray("result").length() == 0) {
