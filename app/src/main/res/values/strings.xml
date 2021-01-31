@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="tab_text_1">Последние</string>
+    <string name="tab_text_2">Горячие</string>
+    <string name="tab_text_3">Лучшие</string>
+    <string name="error_button">Повторить</string>
+    <string name="no_gif_message">На сервере отсутствуют данные</string>
+    <string name="retry_button">Повторить</string>
+    <string name="no_internet_error">Отсутствует подключение к интернету.\n Пожалуйста, повторите попытку</string>
+</resources>

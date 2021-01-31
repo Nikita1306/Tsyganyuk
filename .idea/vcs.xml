@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FinalManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Google/AdvancedAndroid_Squawker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Google/GuessIt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Google/Notifications/android-kotlin-notifications" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Google/TeamManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Google/andfun-kotlin-mars-real-estate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Google/andfun-kotlin-mars-real-estate/andfun-kotlin-mars-real-estate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Google/andfun-kotlin-sleep-tracker-with-recyclerview" vcs="Git" />
+  </component>
+</project>
